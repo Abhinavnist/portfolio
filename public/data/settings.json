@@ -17,7 +17,7 @@
 
     "locales": {
       "en": { "role": "Android Developer" },
-      "hn": { "role": "Android Developer" }
+      "hn": { "role": "एंड्रॉइड डेवलपर" }
     }
   },
 
@@ -27,7 +27,7 @@
 
     "locales": {
       "en": { "message": "Available for Android Dev!" },
-      "hn": { "message": "¡Disponible para freelance!" }
+      "hn": { "message": "एंड्रॉइड डेवलपमेंट के लिए उपलब्ध!" }
     }
   },
 
@@ -62,7 +62,7 @@
 
   "emailjs": {
     "publicKey": "tzObcsmOwHvPy6Rhp",
-    "serviceId": "service_4h8g7vb",
+    "serviceId": "service_fzpg79l",
     "templateId": "template_seyjkzn"
   }
 }
