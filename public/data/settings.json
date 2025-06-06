@@ -5,13 +5,13 @@
 
   "preloader": {
     "enabled": true,
-    "title": "Vibhav <b>Portfolio</b>",
-    "subtitle": "by Vibhav Kumar"
+    "title": "Abhinav <b>Portfolio</b>",
+    "subtitle": "by Abhinav Kumar"
   },
 
   "profile": {
-    "name": "Vibhav Kumar",
-    "stylizedName": "<strong>**Vibhav** Kumar</strong>",
+    "name": "Abhinav Kumar",
+    "stylizedName": "<strong>**Abhinav** Kumar</strong>",
     "logoUrl": "images/svg/logo.svg",
     "profilePictureUrl": "images/pictures/avatar.jpg",
 

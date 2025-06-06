@@ -39,10 +39,10 @@ function ArticleInfoBlock({ data }) {
 
 const handleDownload = () => {
   const resumeUrl =
-    'https://myportfollio-b219a.web.app/utils/images/Vibhav_Android_18Jan.pdf' // Change this to your actual file path
+    'https://myportfollio-b219a.web.app/utils/images/Abhinav_Android_18Jan.pdf' // Change this to your actual file path
   const a = document.createElement('a')
   a.href = resumeUrl
-  a.download = 'Vibhav_Kumar_Resume.pdf' // File name
+  a.download = 'Abhinav_Kumar_Resume.pdf' // File name
   document.body.appendChild(a)
   a.click()
   document.body.removeChild(a)
