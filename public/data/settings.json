@@ -26,8 +26,8 @@
     "available": true,
 
     "locales": {
-      "en": { "message": "Available for Android Dev!" },
-      "hn": { "message": "एंड्रॉइड डेवलपमेंट के लिए उपलब्ध!" }
+      "en": { "message": "Available for Full Stack Developer!" },
+      "hn": { "message": "फुलस्टैक डेवलपर के लिए उपलब्ध!" }
     }
   },
 
