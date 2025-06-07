@@ -27,17 +27,17 @@
             "faColors": { "bg": null, "fill": null }
           },
           "dates": {
-            "start": "07/25/2020",
-            "end": "04/04/2024"
+            "start": "10/01/2021",
+            "end": "04/04/2025"
           },
           "locales": {
             "en": {
               "title": "**BTech** in Computer Science",
               "info": "NIST University",
-              "text": "<p>Completed BTech from NIST University with a CGPA of 8.5 and learned:</p> <ul><li>Data Structures</li><li>Operating Systems</li><li>Databases</li></ul><p class='mt-3'>Core Member of Club Excel **Coding Club**</p> <ul><li>Organized coding contests</li><li>Guided juniors</li><li>Conducted Git & GitHub workshop</li></ul> <p class='mt-3'>Developed projects in Android, Web, Machine Learning, and Deep Learning.</p>",
+              "text": "<p>Completed BTech from NIST University with a CGPA of 8.5 and learned:</p> <ul><li>Data Structures</li><li>Operating Systems</li><li>Databases</li></ul><p class='mt-3'>Core Member of Club Excel **Coding Club**</p> <ul><li>Organized coding contests</li><li>Guided juniors</li><li>Conducted Git & GitHub workshop</li><li>Conducted React workshop</li></ul> <p class='mt-3'>Developed projects in Web (club-excel website), Machine Learning, and Deep Learning.</p>",
               "tags": [
-                "Android",
-                "Deep Learning",
+                "Frontend",
+                "Backend",
                 "Data Structures",
                 "Algorithms"
               ]
@@ -45,8 +45,13 @@
             "hn": {
               "title": "**बीटेक** कंप्यूटर साइंस में",
               "info": "निस्ट यूनिवर्सिटी",
-              "text": "<p>निस्ट यूनिवर्सिटी से बीटेक पूरा किया, जहाँ मेरा सीजीपीए 8.5 था और मैंने सीखा:</p> <ul><li>डेटा संरचना</li><li>ऑपरेटिंग सिस्टम</li><li>डेटाबेस</li></ul><p class='mt-3'>क्लब एक्सेल **कोडिंग क्लब** का प्रमुख सदस्य</p> <ul><li>कोडिंग प्रतियोगिताएँ आयोजित कीं</li><li>जूनियर्स को मार्गदर्शन दिया</li><li>Git और GitHub कार्यशाला आयोजित की</li></ul> <p class='mt-3'>एंड्रॉइड, वेब, मशीन लर्निंग और डीप लर्निंग में प्रोजेक्ट बनाए।</p>",
-              "tags": ["एंड्रॉइड", "डीप लर्निंग", "डेटा संरचना", "एल्गोरिदम"]
+              "text": "<p>NIST विश्वविद्यालय से बीटेक पूरा किया, CGPA 8.5 के साथ, और निम्नलिखित सीखा:</p> <ul><li>डेटा स्ट्रक्चर</li><li>ऑपरेटिंग सिस्टम्स</li><li>डेटाबेस</li></ul><p class='mt-3'>क्लब एक्सेल <strong>कोडिंग क्लब</strong> के कोर सदस्य</p> <ul><li>कोडिंग प्रतियोगिताओं का आयोजन किया</li><li>जूनियर्स को मार्गदर्शन दिया</li><li>Git और GitHub पर कार्यशाला आयोजित की</li><li>React पर कार्यशाला आयोजित की</li></ul> <p class='mt-3'>वेब (क्लब एक्सेल वेबसाइट), मशीन लर्निंग और डीप लर्निंग में प्रोजेक्ट्स विकसित किए।</p>",
+              "tags": [
+                "फ्रंटएंड",
+                "बैकएंड",
+                "डेटा स्ट्रक्चर",
+                "एल्गोरिदम"
+              ]
             }
           }
         }

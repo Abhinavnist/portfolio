@@ -13,7 +13,6 @@
       "title_long": "करियर की **उपलब्धियां**"
     }
   },
-
   "articles": [
     {
       "id": "certifications",
@@ -23,22 +22,18 @@
         "en": { "title": "Certifications" },
         "hn": { "title": "प्रमाणपत्र" }
       },
-
       "items": [
         {
           "icon": {
             "img": "images/pictures/iit_k.jfif",
             "fa": "",
-            "faColors": { "bg": "null", "fill": "null" }
+            "faColors": { "bg": null, "fill": null }
           },
-          "dates": {
-            "start": "07/01/2023",
-            "end": null
-          },
+          "dates": { "start": "07/01/2023", "end": null },
           "links": [
             {
               "string": "see_certification",
-              "href": "https://www.linkedin.com/in/Abhinavkumargrd00170/overlay/1711009171062/single-media-viewer/?profileId=ACoAADgk2l4BELT8BRmTjMJZBuhs_GV8NSlPtRw"
+              "href": "https://www.linkedin.com/in/Abhinavkumargrd00170/overlay/1711009171062/single-media-viewer/"
             }
           ],
           "locales": {
@@ -58,14 +53,11 @@
             "fa": "",
             "faColors": { "bg": "#FFD700", "fill": "#111" }
           },
-          "dates": {
-            "start": "12/05/2023",
-            "end": null
-          },
+          "dates": { "start": "12/05/2023", "end": null },
           "links": [
             {
               "string": "see_certification",
-              "href": "https://www.linkedin.com/in/Abhinavkumargrd00170/overlay/1711025700520/single-media-viewer/?profileId=ACoAADgk2l4BELT8BRmTjMJZBuhs_GV8NSlPtRw"
+              "href": "https://www.linkedin.com/in/Abhinavkumargrd00170/overlay/1711025700520/single-media-viewer/"
             }
           ],
           "locales": {
@@ -78,10 +70,54 @@
               "text": "एंड्रॉइड डेवलपमेंट के लिए अनिवाले प्रमाणन"
             }
           }
+        },
+        {
+          "icon": { "img": null, "fa": "fa-brands fa-google", "faColors": null },
+          "dates": { "start": "08/2023", "end": null },
+          "links": [],
+          "locales": {
+            "en": {
+              "title": "How Google Does Machine Learning",
+              "text": "Completed online certification course by Google."
+            },
+            "hn": {
+              "title": "गूगल मशीन लर्निंग कैसे करता है",
+              "text": "गूगल द्वारा ऑनलाइन प्रमाणन पाठ्यक्रम पूरा किया।"
+            }
+          }
+        },
+        {
+          "icon": { "img": null, "fa": "fa-solid fa-code", "faColors": null },
+          "dates": { "start": "06/2023", "end": null },
+          "links": [],
+          "locales": {
+            "en": {
+              "title": "Introduction to Programming in C",
+              "text": "Completed basic programming certification in C language."
+            },
+            "hn": {
+              "title": "C में प्रोग्रामिंग की शुरुआत",
+              "text": "C भाषा में मूल प्रोग्रामिंग प्रमाणन पूरा किया।"
+            }
+          }
+        },
+        {
+          "icon": { "img": null, "fa": "fa-brands fa-hackerrank", "faColors": null },
+          "dates": { "start": "05/2023", "end": null },
+          "links": [],
+          "locales": {
+            "en": {
+              "title": "Problem Solving (Basic)",
+              "text": "Certified in basic problem solving by HackerRank."
+            },
+            "hn": {
+              "title": "समस्या समाधान (बेसिक)",
+              "text": "HackerRank द्वारा बुनियादी समस्या समाधान में प्रमाणित।"
+            }
+          }
         }
       ]
     },
-
     {
       "id": "awards",
       "component": "ArticleThread",
@@ -90,13 +126,25 @@
         "en": { "title": "Awards" },
         "hn": { "title": "पुरस्कार" }
       },
-
       "items": [
         {
-          "dates": {
-            "start": "05/01/2021",
-            "end": null
-          },
+          "dates": { "start": "01/2024", "end": null },
+          "links": [],
+          "locales": {
+            "en": {
+              "title": "**Coderush Challenge 2024** – 1st Place",
+              "info": "Organized by Club Excel, NIST",
+              "text": "Ranked 1st among 400+ participants in the annual coding challenge."
+            },
+            "hn": {
+              "title": "**कोडरश चैलेंज 2024** – प्रथम स्थान",
+              "info": "क्लब एक्सेल, NIST द्वारा आयोजित",
+              "text": "400+ प्रतिभागियों में से प्रथम स्थान प्राप्त किया।"
+            }
+          }
+        },
+        {
+          "dates": { "start": "05/01/2021", "end": null },
           "links": [
             { "string": "more_info", "href": "https://clubexcel.co.in/" }
           ],

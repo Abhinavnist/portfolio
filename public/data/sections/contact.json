@@ -11,7 +11,6 @@
       "title_long": "**मुझसे संपर्क करें**"
     }
   },
-
   "articles": [
     {
       "id": "contact_form",
@@ -19,29 +18,22 @@
       "config": {},
       "locales": {
         "en": { "title": "Send me a **message**" },
-        "hn": {
-          "title": "मुझे एक **संदेश** भेजें"
-        }
+        "hn": { "title": "मुझे एक **संदेश** भेजें" }
       },
-
       "items": null
     },
-
     {
       "id": "contact_list",
       "component": "ArticleGrid",
-      "config": {
-        "format": "grid"
-      },
+      "config": { "format": "grid" },
       "locales": {
         "en": { "title": "Or if you **prefer**..." },
         "hn": { "title": "या यदि आप **पसंद करें**..." }
       },
-
       "items": [
         {
-          "value": "+919113175272",
-          "links": [{ "href": "tel:+919113175272" }],
+          "value": "+91 8789486538",
+          "links": [{ "href": "tel:+918789486538" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-phone",
@@ -52,10 +44,9 @@
             "hn": { "title": "फ़ोन" }
           }
         },
-
         {
-          "value": "Abhinav...com",
-          "links": [{ "href": "mailto:Abhinavkumarmishra00170@gmail.com" }],
+          "value": "abhinavkum07@gmail.com",
+          "links": [{ "href": "mailto:abhinavkum07@gmail.com" }],
           "icon": {
             "img": null,
             "fa": "fa-solid fa-envelope",
@@ -66,11 +57,10 @@
             "hn": { "title": "ईमेल" }
           }
         },
-
         {
-          "value": "Abhinav kumar",
+          "value": "Abhinav Kumar",
           "links": [
-            { "href": "https://www.linkedin.com/in/Abhinavkumargrd00170" }
+            { "href": "www.linkedin.com/in/abhinav-sde" }
           ],
           "icon": {
             "img": null,
@@ -82,10 +72,9 @@
             "hn": { "title": "लिंक्डइन" }
           }
         },
-
         {
-          "value": "Abhinav 404 ",
-          "links": [{ "href": "https://www.instagram.com/Abhinav_404" }],
+          "value": "@abhinavkum07",
+          "links": [{ "href": "https://www.instagram.com/abhinavkum07" }],
           "icon": {
             "img": null,
             "fa": "fa-brands fa-instagram",
