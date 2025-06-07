@@ -39,7 +39,7 @@ function ArticleInfoBlock({ data }) {
 
 const handleDownload = () => {
   const resumeUrl =
-    'https://myportfollio-b219a.web.app/utils/images/Abhinav_Android_18Jan.pdf' // Change this to your actual file path
+    'https://drive.google.com/file/d/1m-B_PjNbO-FkZEAcmBwnL6FN2ayDxjNK/view?usp=sharing' // Change this to your actual file path
   const a = document.createElement('a')
   a.href = resumeUrl
   a.download = 'Abhinav_Kumar_Resume.pdf' // File name
